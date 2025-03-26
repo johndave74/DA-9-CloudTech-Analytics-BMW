@@ -79,7 +79,7 @@ This Power BI dashboard provides an in-depth analysis of BMW car sales from 2019
 - **John David** – Data Analyst, BMW Sales Analysis
 
 ### Connect with me
-- LinkedIn: [[John David]](https://www.linkedin.com/in/john-david-b7b5781b3/)
+- LinkedIn: [John David](https://www.linkedin.com/in/john-david-b7b5781b3/)
 - GitHub: [johndave74](https://github.com/johndave74)
 
 ---
